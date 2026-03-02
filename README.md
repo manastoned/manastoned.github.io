@@ -4,8 +4,6 @@ Welcome! I will be using this space to blather at length about whatever I want, 
 
 I look forward to seeing what this little project can grow into! 
 
-~~~~manastoned
-
 # Site tree
 
 * [Blog](blog.md)
