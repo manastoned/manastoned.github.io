@@ -1,2 +1,2 @@
 
-include: [".well-known/atproto"]
+include: [".well-known/atproto-did"]
