@@ -9,10 +9,11 @@ div {
 }
 
 #menu {
+  color: white;
   width: 5%;
   height: 50%;
   font-size: 24px;
-  background-color: lightblue;
+  /* background-color: lightblue; */
   margin: 1%;
   border-style: solid;
   border: 1%;
