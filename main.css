@@ -27,6 +27,9 @@ div {
 	background-color: darkgray;
 	width: 60%;
 	color: black;
+	border-style: solid none none none;
+	border-color: black;
+	border-width: 1px;
 }
 
 #author {
