@@ -1,6 +1,11 @@
+html{
+  background: black;
+  color: white;
+}
+
 div {
-float: left;
-padding: 15px;
+  float: left;
+  padding: 15px;
 }
 
 #menu {
@@ -16,10 +21,12 @@ padding: 15px;
 #article1 {
 	background-color: lightgray;
 	width: 60%;
+	color: black;
 }
 #article2 {
 	background-color: darkgray;
 	width: 60%;
+	color: black;
 }
 
 #author {
@@ -28,4 +35,5 @@ padding: 15px;
  border-style: none none none solid;
  border-color: black;
  margin: 1%;
+ color: black;
  }
