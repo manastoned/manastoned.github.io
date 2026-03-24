@@ -1,0 +1,31 @@
+div {
+float: left;
+padding: 15px;
+}
+
+#menu {
+  width: 5%;
+  height: 50%;
+  font-size: 24px;
+  background-color: lightblue;
+  margin: 1%;
+  border-style: solid;
+  border: 1%;
+  border-color: black;
+}
+#article1 {
+	background-color: lightgray;
+	width: 60%;
+}
+#article2 {
+	background-color: darkgray;
+	width: 60%;
+}
+
+#author {
+ background-color: lightgray;
+ width: 10%;
+ border-style: none none none solid;
+ border-color: black;
+ margin: 1%;
+ }
